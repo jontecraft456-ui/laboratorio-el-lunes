@@ -1,0 +1,24 @@
+{
+  "name": "laboratorio-el-lunes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "fastify": "^5.12.8",
+    "inversify": "^8.2.4",
+    "reflect-metadata": "^0.2.2",
+    "tsyringe": "^4.10.0",
+    "typeorm": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6"
+  }
+}
